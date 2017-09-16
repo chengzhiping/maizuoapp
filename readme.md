@@ -26,3 +26,5 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 在分支dev上面的工作
 
 还是在dev上面的工作
+
+我现在要合并分支
